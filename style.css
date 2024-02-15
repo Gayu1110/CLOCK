@@ -1,0 +1,25 @@
+.mdiv{ 
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    background-size: cover;
+ }
+
+.container{ 
+    height: 350px;
+    width: 350px;
+    box-shadow: 0px 0px 20px gray;
+    border-radius: 100%;
+    padding: 20px;
+    background: transparent;
+    backdrop-filter: blur(20px);
+    text-align: center;
+    justify-content: center;
+    background-position: center;
+  }
